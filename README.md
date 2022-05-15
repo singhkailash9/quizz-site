@@ -1,3 +1,3 @@
 # quizz-app
-a simple quiz site
-my first project
+
+My first project - A simple quiz site
